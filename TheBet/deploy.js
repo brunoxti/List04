@@ -7,7 +7,7 @@ const bytecode = compiledFile.evm.bytecode.object;
 
 const provider = new HDWalletProvider(
 
-    'soccer stable clock balcony man become fancy admit business arrange journey clean',
+    'private keys frase',
     'https://rinkeby.infura.io/v3/e2614991c51942479ee0c8fafdff3f38'
 );
 
